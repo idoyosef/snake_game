@@ -4,7 +4,7 @@ A classic Snake game built using Python's `turtle` graphics library. This projec
 
 ## 🎮 Demo
 
-<img src="https://raw.githubusercontent.com/idoyosef/snake_game/screenshot.png" alt="Snake Game Screenshot" width="600"/>
+<img src="[https://raw.githubusercontent.com/idoyosef/snake_game/screenshot.png](https://github.com/idoyosef/snake_game/blob/main/screenshot.png)" alt="Snake Game Screenshot" width="600"/>
 
 ## 🛠 Features
 
